@@ -3,7 +3,7 @@ package com.programmers;
 import java.util.PriorityQueue;
 
 /**
- * ¹®Á¦ : https://programmers.co.kr/learn/courses/30/lessons/42626?language=java#
+ * ë¬¸ì œ : https://programmers.co.kr/learn/courses/30/lessons/42626?language=java#
  * @author lsh
  */
 public class Q01 {

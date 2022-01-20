@@ -1,4 +1,4 @@
-package com.codingTest;
+package com.codingTest.hash;
 
 import java.util.PriorityQueue;
 

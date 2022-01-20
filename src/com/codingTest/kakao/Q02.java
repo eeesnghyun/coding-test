@@ -1,4 +1,4 @@
-package com.codingTest;
+package com.codingTest.kakao;
 
 import java.util.Stack;
 

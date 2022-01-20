@@ -1,4 +1,4 @@
-package com.codingTest;
+package com.codingTest.etc;
 
 /**
  * 문제 : https://programmers.co.kr/learn/courses/30/lessons/12977

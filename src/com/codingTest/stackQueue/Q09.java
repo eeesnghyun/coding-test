@@ -1,4 +1,4 @@
-package com.codingTest;
+package com.codingTest.stackQueue;
 
 import java.util.Collections;
 import java.util.PriorityQueue;
